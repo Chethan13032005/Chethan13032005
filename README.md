@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Chethan13032005
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ..Enginnering in CSE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋, I’m Chethan
 
-<!---
-Chethan13032005/Chethan13032005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m passionate about coding and always curious about solving real-world problems with technology
+- 🌱 I’m currently pursuing Engineering in Computer Science at Bapuji Institute of Engineering and Technology
+- 💻 I’m proficient in: Python, C++, Java, and Web Development (HTML, CSS, JavaScript)
+- 💡 Currently learning: AI-ML, Data Science, and exploring cloud computing technologies
+- 💞️ I’m looking to collaborate on trending technologies and innovative projects
+- 🚀 Projects: Working on a Smart India Hackathon 2024 project involving AI-ML and geodetic data analysis
+- 📫 Reach me on LinkedIn:https://www.linkedin.com/in/chethan-a-a51006286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 😄 Pronouns: he / him
+- ⚡ Fun fact: I enjoy participating in hackathons and brainstorming creative tech solutions!
