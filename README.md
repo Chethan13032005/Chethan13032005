@@ -1,11 +1,26 @@
-### Hi there 👋, I’m Chethan
+## Hi, I’m Chethan 👋
 
-- 👀 I’m passionate about coding and always curious about solving real-world problems with technology
-- 🌱 I’m currently pursuing Engineering in Computer Science at Bapuji Institute of Engineering and Technology
-- 💻 I’m proficient in: Python, C++, Java, and Web Development (HTML, CSS, JavaScript)
-- 💡 Currently learning: AI-ML, Data Science, and exploring cloud computing technologies
-- 💞️ I’m looking to collaborate on trending technologies and innovative projects
-- 🚀 Projects: Working on a Smart India Hackathon 2024 project involving AI-ML and geodetic data analysis
-- 📫 Reach me on LinkedIn:https://www.linkedin.com/in/chethan-a-a51006286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 😄 Pronouns: he / him
-- ⚡ Fun fact: I enjoy participating in hackathons and brainstorming creative tech solutions!
+Computer Science Engineering student focused on building practical software solutions and strengthening core CS fundamentals.
+
+### 🔧 Technical Skills
+- Programming: C, Java, Python
+- Data Structures & Algorithms (C)
+- Web Development: HTML, CSS, JavaScript, React
+- Backend: Java, Spring Boot (Basics)
+- Database: MySQL
+- Tools: Git, GitHub
+
+### 🚀 Projects
+- **SmartShelfX** – Inventory management system with demand analysis and auto-restock logic  
+- **Disaster Partner** – Web-based disaster alert and response coordination platform  
+- **EduTutor Agent** – Role-based learning platform with AI-assisted features (integration-focused)
+
+### 🎯 Currently Working On
+- Improving problem-solving skills using DSA
+- Building full-stack projects step by step
+- Understanding how AI tools can be integrated into applications
+
+### 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/achethan
+
+> Strong fundamentals first. Advanced systems next. One step at a time.
